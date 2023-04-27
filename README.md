@@ -1,2 +1,1 @@
-# hellocurso
-2curso
+este proyecto es una prueba
